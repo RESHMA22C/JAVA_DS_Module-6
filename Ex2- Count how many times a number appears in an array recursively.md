@@ -63,5 +63,3 @@ public class CountOccurrences {
 
 ## Result:
 Thus, the Java program to Count how many times a number appears in an array recursively is implemented successfully.
-## Result:
-Thus, the Java program to Count how many times a number appears in an array recursively is implemented successfully.
